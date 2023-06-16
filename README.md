@@ -65,5 +65,5 @@ https://github.com/370338/Lab-09.git
 The purpose of this project is to work through the GitHub Learning Lab course "Create a release based workflow" to learn about release workflows on GitHub. The lab involves creating a course repository, practicing exiting and returning to the course, working through the course steps, and downloading the completed course repository as a deliverable.
 
 P7
-
+https://github.com/370338/CIT-281-Portfolio/blob/main/README.md
 The purpose of this project is to create an initial version of a CIT Minor portfolio using GitHub Pages. This involves creating a GitHub Page as the entry web page for the portfolio, creating repositories for each lab and project, creating GitHub Pages for each lab and project with descriptions and screenshots, and organizing the content on the portfolio page.

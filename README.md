@@ -61,6 +61,7 @@ https://github.com/370338/Lab-08.git
 The purpose of this lab is to learn and practice using the Fastify framework and the node-fetch package in Node.js. The lab involves setting up a Fastify server, making HTTP requests using node-fetch to retrieve photo data from the JSONPlaceholder API, and handling the responses to return appropriate status codes and data.
 
 Lab-09
+https://github.com/370338/skills-release-based-workflow.git
 https://github.com/370338/Lab-09.git
 The purpose of this project is to work through the GitHub Learning Lab course "Create a release based workflow" to learn about release workflows on GitHub. The lab involves creating a course repository, practicing exiting and returning to the course, working through the course steps, and downloading the completed course repository as a deliverable.
 
